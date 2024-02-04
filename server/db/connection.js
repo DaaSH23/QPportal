@@ -1,2 +1,2 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/QPportal')
+mongoose.connect('mongodb://Abhishek_Oraon:abhishekOraon1209@ac-cekfyuo-shard-00-00.emehrbo.mongodb.net:27017,ac-cekfyuo-shard-00-01.emehrbo.mongodb.net:27017,ac-cekfyuo-shard-00-02.emehrbo.mongodb.net:27017/?replicaSet=atlas-u6abp1-shard-0&ssl=true&authSource=admin')
